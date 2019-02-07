@@ -21,3 +21,5 @@ VALUES(12,'TWO TOWERS','SECOND IN TRILOGY','TOLKIEN','PENGIUN','01-JAN-78',1);
 
 INSERT INTO loans (student_id,isbn,loan_date)
 VALUES(2000,12,'20-JAN-78');
+
+CREATE TABLE pancakes {};
