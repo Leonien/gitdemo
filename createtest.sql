@@ -23,3 +23,5 @@ INSERT INTO loans (student_id,isbn,loan_date)
 VALUES(2000,12,'20-JAN-78');
 
 CREATE TABLE pancakes {};
+
+CREATE TABLE pizzas {};
